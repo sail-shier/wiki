@@ -1,0 +1,1 @@
+if(typeof AWPageMounts=='undefined'){AWPageMounts={}};AWPageMounts['nav']={"name":"$navigation.md","path":"$navigation.md","content":"\n#### [首页](?file=home-首页)\n\n##### 方法论\n- [基础方法论](?file=000001-方法论/00001-基础方法论 \"基础方法论\")\n\n##### 房子\n- [风格](?file=000002-房子/0000001-风格 \"风格\")\n","timestamp":1514441147572}
