@@ -1,4 +1,4 @@
-# github获取的安装包
+# atom从github获取，安装插件
 例如“markdown-preview-enhanced”
 1. 从github获取文件包
 2. 前往~/.atom/packages
@@ -11,3 +11,5 @@
 额外的说明：
 1. atom可以通过config进行配置
 2. 可以在atom里面更改config的文件类型来进行重置
+
+# vscode安装插件
