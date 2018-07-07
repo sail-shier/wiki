@@ -9,3 +9,4 @@
 
 ##### wiki工具
 - [amwiki](?file=000003-wiki工具/0000001-amwiki "amwiki")
+- [atom安装包](?file=000003-wiki工具/0000002-atom安装包 "atom安装包")
